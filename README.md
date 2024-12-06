@@ -1,4 +1,5 @@
-# Final-Project_AIDI1002 (TejasKumar Patel & Chintan Chauhan) 
+# Final-Project_AIDI1002 
+### By : TejasKumar Patel - 200575242 & Chintan Chauhan - 200564227 
 # **Predicting and Mitigating Global Deforestation Using Machine Learning**
 
 ---
